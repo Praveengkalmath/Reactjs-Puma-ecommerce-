@@ -1,0 +1,80 @@
+
+.userLogin{
+    background-image: url('https://wallpaperaccess.com/full/6324762.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 770px;
+    width: 100%;
+    position: fixed;
+    margin-bottom: 20px; 
+ } 
+.formcontainercard2{
+    color:white;
+    background-image: url('https://wallpaperaccess.com/full/6324762.jpg');
+    margin: -40px 300px;
+    padding: 80px 0px;
+    border-radius: 50px;
+    border-color: aliceblue;
+    border: 5px solid;
+    box-shadow: 10px 10px 10px 10px rgba(255, 255, 255, 0.714);
+}
+.formcontainercard2 h1{
+    color: white;
+    font-size:70px;
+    margin: 0px 220px;
+    padding-bottom: 40px;
+}
+.form_input1 input{
+padding: 10px 30px;
+background-color: white;
+font-size: 20px;
+margin-bottom: 30px;
+border-radius: 10px;
+}
+
+.form_input1{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 200px;
+    
+}
+.formcontainercard1 h1{
+    font-size: 60px;
+    margin: 0px;
+    padding-bottom: 40px;
+    color: rgba(7, 7, 7, 0.853);
+    text-align: center;
+}
+body{
+    /* background-image:url('https://www.hdwallpapers.in/download/neymar_da_silva_santos_junior_is_holding_puma_shoes_wearing_colorful_dress_hd_neymar-HD.jpg'); */
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-size: cover;
+    margin: 0%;
+    background-color: white;
+   
+}
+.form_input1 button{
+    background-color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 70px;
+    padding: 10px 50px;
+    font-weight: 800;
+    color: rgb(3, 3, 71);
+}
+.form_input1 button:hover{
+    background-color: rgba(3, 7, 77, 0.938);
+    color: white;
+    transform: scale(1.1);
+}
+.userLogin{
+    /* background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../../public/images/img10.jpg); */
+    padding: 120px 0px;
+    margin: 50px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}

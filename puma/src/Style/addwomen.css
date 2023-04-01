@@ -1,0 +1,66 @@
+body{
+    width: 100vw;
+}
+.all{
+    width: 100vw;
+    background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("https://cdn.sanity.io/images/qa41whrn/prod/629665da5bfd2ef16dcfaf6f5833bbdda2911fa5-1440x500.jpg?w=1440&q=75&auto=format");
+   background-repeat:no-repeat;
+   background-size: cover;
+   padding: 8px 0px;
+   margin-bottom: -79px;
+   /* height: 100vh; */
+  
+}
+.addBook h1{
+    text-align: center;
+    font-size: 40px;
+    color:white;
+}
+.form1{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 15%;
+    color:rgba(245, 245, 245, 0.919);
+ 
+}
+.form1 input{
+  background-color: rgba(247, 245, 241, 0.629);
+    border-radius: 10px;
+    border-bottom:5px solid black;
+    padding: 8px 0px;
+  font-size: 15px;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 20px;
+  color:rgb(10, 1, 49);
+  font-weight: bold;
+  padding-right: 80px;
+  
+}
+.form1 input:hover{
+/* background-color: rgba(247, 245, 241, 0.629); */
+}
+.form1 button{
+    padding: 10px 30px;
+    margin-top: 30px;
+    margin-left: 140px;
+    background-color: rgb(2, 2, 77);
+    color: aliceblue;
+    border-radius: 10px;
+    border: none;
+}
+.addBook{
+    background-color: rgba(0, 255, 255, 0);
+    margin: 30px  450px 50px 450px;
+    box-shadow: 10px 10px 28px 18px;
+    border-radius: 30px 0px 30px 0px;
+    padding: 20px 0px;
+   
+}
+.form1 button:hover{
+    transform: scale(1.1);
+    color: rgb(248, 248, 249);
+    
+    border: 2px solid black;
+}

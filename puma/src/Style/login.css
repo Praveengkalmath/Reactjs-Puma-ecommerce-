@@ -1,0 +1,68 @@
+.login{
+    background-color: rgba(0, 0, 0, 0.577);
+    width: 100%;
+}
+.landingpage{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/342/299/719/black-background-simple-people-legs-wallpaper-thumb.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line{
+    text-align: left;
+    color: rgb(253, 255, 240);
+    font-size: 35px;
+    margin-left: 40px;
+    text-shadow: 1px 1px  ;
+    text-decoration: wavy white;
+}
+.btn2{
+    border-radius: 20px 0px 20px 0px;
+    text-decoration: none;
+   
+    color: rgb(246, 242, 242);
+    margin-left: 40px;
+    padding: 15px 60px;
+    border: 2px solid white;
+ } 
+.btn1{
+    border-radius: 20px 0px 20px 0px;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 15px 50px;
+    color: rgb(239, 237, 237) 
+ } 
+ .btn1:hover{
+    background-color: rgb(226, 228, 231);
+    text-decoration: none;
+    border: 2px solid rgb(10, 10, 10);
+    padding: 15px 50px;
+    color:red
+    
+ } 
+ .btn2:hover{
+    background-color: aliceblue;
+    text-decoration: none;
+    border: 2px solid rgb(11, 11, 11);
+    padding: 15px 50px;
+    color: rgb(3, 74, 6) 
+    
+ } 
+.selectionlogin{
+    display: flex;
+    background-color: black;
+}
+.btns{
+    display: flex;
+   
+
+}
+.btns button{
+    
+ 
+    font-size: larger;
+    font-weight: 600;
+    background-color: transparent;
+    border: none;
+  
+}

@@ -1,0 +1,11 @@
+
+.pagenotfound img{
+    height: 500px;
+    width: 100%;
+   
+    background-color: black;
+    margin-bottom: -60px;
+}
+body{
+    background-color: black;
+}

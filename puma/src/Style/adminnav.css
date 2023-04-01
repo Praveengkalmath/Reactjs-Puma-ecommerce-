@@ -1,0 +1,64 @@
+body{
+    margin: 0%;
+    position: sticky;
+}
+.adminnavtop{
+    background-color: rgba(218, 165, 32, 0.516);
+    text-align: center;
+    font-size: 10px;
+    padding: 1px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.adminnav_links{
+    display: flex;
+   
+    /* padding: 20px 0px; */
+    
+}
+.adminnav_links ul {
+ text-align: left;
+ margin-top: 0%;
+padding-left:20px ;
+}
+.adminnav_links ul li{
+    display:inline;
+    font-size: 20px;
+    padding-left:10px ;
+ 
+}
+.adminnav_links ul{
+    margin-right: 0px;
+    padding-top: 18px;
+    
+}
+.adminLink{
+    color: rgb(235, 237, 238);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    font-weight: bolder;
+   
+}
+.adminLink:hover{
+    text-decoration: underline  rgba(251, 200, 46, 0.655) ;
+    margin-bottom: 2px;
+}
+.admininput{
+    display: flex;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.895);
+    border: black;
+    text-decoration: none;
+    padding: 30px 10px;
+}
+.adminsection{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+.adminicon input{
+    text-decoration: none; 
+   }
+.adminicon img{
+    padding: 6px 10px;
+}
+

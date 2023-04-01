@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+}
+.banner{
+    background-image: url('https://cdn.sanity.io/images/qa41whrn/prod/fcb789576cac1cf5c7fdded59eb86c992989426c-1440x500.jpg?w=1440&q=75&auto=format');
+    background-size: cover;
+    height: 60vh;
+   
+}
+.info{
+    text-align: right;
+padding: 120px 40px;
+color: azure;
+
+}
+.info h1{
+    font-size: 50px;
+
+}
+.info h4{
+    font-size: 25px;
+    margin-top: -30px;
+    padding-right: 60px;
+}
+.btn{
+    padding: 0px 120px;
+}
+.btn button{
+    padding: 10px 20px;
+    margin-left: 10px;
+    margin-top: -30px;
+}

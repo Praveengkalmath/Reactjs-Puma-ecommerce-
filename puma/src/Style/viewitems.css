@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(246, 251, 251);
+}
+.pumainfo{
+    display: flex;
+    flex-wrap: wrap;
+}
+.side h1{
+    font-size: 13px;
+    flex-wrap: wrap;
+    font-weight: 800;
+    /* font-size: 52px; */
+}
+.side{
+    margin-top: 100px;
+}
+.contentt{
+margin-top: -42.9px;
+font-size: 32px;
+padding-left: 400px;
+color: rgb(251, 248, 245);
+background-color: rgb(4, 4, 85);
+
+}
+.contentt p{
+    margin-top: -80px;
+    padding-left: 230px;
+}
+.pumainfo h1{
+    font-style: oblique;
+    margin-left: 20px;
+    font-weight: 800px;
+    font-size: 35px
+    
+}
+.side h2{
+    color: red;
+    font-size: 40px;
+    margin-left: 20px;
+}
+.side h3{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+.side h4{
+    color: rgba(240, 13, 13, 0.995);
+    font-size: 20px;
+    font-style: oblique;
+    margin-top: -30px;
+    margin-left: 10px;
+
+}
+.img img{
+    margin-top: -20px;
+    margin-bottom: -49px;
+}
+.buy{
+    padding: 10px 70px;
+    border-radius: 10px;
+    background-color: rgba(34, 7, 103, 0.962);
+    color: aliceblue;
+    font-size: 25px;
+    border: none;
+    margin-left: 20px;
+}
+.buy:hover{
+    background-color: red;
+    color: black;
+    transform: scale(1.1);
+}

@@ -1,0 +1,47 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.book_section1{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
+.bookCard1{
+     /* background-color: rgba(235, 226, 99, 0.482); */
+     width: 15%;
+     box-shadow: 10px 10px 8px 8px;
+     margin-right: 40px;
+     margin-top: 30px;
+     padding: 10px 50px;
+}
+.bookCard1 h4{
+    font-size: 25px;
+}
+.bookCard1 h6{
+    font-size: 15px;
+}
+.bookCard1 button{
+   margin-left: 50px;
+   padding: 8px 25px;
+   border-radius: 10px;
+   background-color: red;
+   color: aliceblue;
+   border: none;
+}
+.bookCard1 button:hover{
+ transform: scale(1.1);
+}
+.bookList1 h1{
+    text-align: center;
+    
+}
+.bookList1 {
+    width: 100vw;
+    background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("https://cdn.sanity.io/images/qa41whrn/prod/629665da5bfd2ef16dcfaf6f5833bbdda2911fa5-1440x500.jpg?w=1440&q=75&auto=format");
+   background-repeat:no-repeat;
+   background-size: cover;
+   padding-top: 10px;
+   padding-bottom: 100px;
+   margin-bottom: -99px;
+}
